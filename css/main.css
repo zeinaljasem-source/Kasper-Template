@@ -1458,6 +1458,10 @@ header .container .options-icon:hover + ul li {
 @media (max-width:991px) {
     .contact-content {
         flex-direction: column-reverse;
+    }.contact-content form {
+        flex-basis: 490px;
+        align-items: center;
+        justify-content: center;
     }
     .contact-text {
         text-align: center;
