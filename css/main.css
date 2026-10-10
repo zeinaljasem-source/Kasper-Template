@@ -763,7 +763,7 @@ header .container .options-icon:hover + ul li {
     width: 100%;
     position: relative;
     background-color: gray;
-    background-image: url(./images/stats.png);
+    background-image: url(../images/stats.png);
     background-size: cover;
     z-index: 2;
     display: flex;
@@ -932,12 +932,12 @@ header .container .options-icon:hover + ul li {
 }
 
 .p-img-1 {
-    background-image: url(./images/skills-01.jpg);
+    background-image: url(../images/skills-01.jpg);
     background-size: cover;
 }
 
 .p-img-2 {
-    background-image: url(./images/skills-02.jpg);
+    background-image: url(../images/skills-02.jpg);
     background-size: cover;
 }
 
@@ -1093,7 +1093,7 @@ header .container .options-icon:hover + ul li {
     height: 35vh;
     width: 100%;
     background-color: black;
-    background-image: url(./images/quote.jpg);
+    background-image: url(../images/quote.jpg);
     background-size: cover;
     position: relative;
     justify-content: center;
@@ -1273,7 +1273,7 @@ header .container .options-icon:hover + ul li {
 
 .contact-img {
     background-color: black;
-    background-image: url(./images/subscribe.jpg);
+    background-image: url(../images/subscribe.jpg);
     background-size: cover;
     width: 100%;
     height: 35vh;
@@ -1470,7 +1470,7 @@ footer {
     width: 100%;
     height: 50vh;
     background-color: black;
-    background-image: url(./images/subscribe.jpg);
+    background-image: url(../images/subscribe.jpg);
     position: relative;
 }
 
